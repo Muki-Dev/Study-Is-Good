@@ -14,16 +14,20 @@ header nav{
     width: 100px;
     height: 100px;
     object-fit: cover;
+	cursor: pointer;
 }
 
 .searchImg{
 	width: 30px;
 	height: 30px;
+	cursor: pointer;
 }
 
 .userImg{
 	width: 30px;
 	height: 30px;
+	cursor: pointer;
+
 }
 
 .banner{
@@ -40,5 +44,7 @@ header nav{
 	object-fit: cover;
 	background-position: center;
 	background-attachment: center;
+	cursor: pointer;
+
 }
 
